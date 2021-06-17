@@ -3,7 +3,7 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.eventmobi.multieventapp.meaidfa33d52eb4374fdb891ab905fa3a72e7",
+			"package_name": "com.capacitor.three",
 			"sha256_cert_fingerprints": ["C9:63:A5:47:0A:54:DB:41:63:FA:FD:84:46:AA:BA:58:68:39:1B:40:62:6F:EC:FF:18:92:99:BD:0B:47:2C:C2"]
 		}
 	},
